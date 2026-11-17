@@ -54,6 +54,8 @@ Le script suivant lance les quatre applications, crée les données, vérifie l'
 ```
 
 Les journaux du scénario sont dans `target/smoke-test/`.
+<img width="1920" height="616" alt="Screenshot 2026-11-17 154938" src="https://github.com/user-attachments/assets/d860302d-2a95-4ce3-8a84-c7268da3096f" />
+<img width="1843" height="663" alt="Screenshot 2026-11-155007" src="https://github.com/user-attachments/assets/e291c689-a315-44aa-9373-f963422cd57e" />
 
 ## Choix techniques
 
